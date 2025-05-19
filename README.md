@@ -1,4 +1,4 @@
-![My Profile Banner]( https://media.licdn.com/dms/image/v2/D4D12AQENxH4et7bJkA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1705316886670?e=1753315200&v=beta&t=TyDFWog2BliW94SRVOF6EdhqeY-RSA5vvhoOl-T5lf8
+[![MasterHead]( https://media.licdn.com/dms/image/v2/D4D12AQENxH4et7bJkA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1705316886670?e=1753315200&v=beta&t=TyDFWog2BliW94SRVOF6EdhqeY-RSA5vvhoOl-T5lf8
 )
 <h1 align="center">Hi 👋, I'm Yinka Matthew Tanimola</h1>
 <h3 align="center">A passionate and results-oriented Data Analyst. I thrive on transforming raw data into meaningful insights that drive informed decision-making.</h3>
